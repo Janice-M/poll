@@ -17,11 +17,4 @@ from django.conf.urls import url, path
 from django.contrib import admin
 from . import views
 
-urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    path ('',views.index, name ='indes'),
-]
-
-
-
 
