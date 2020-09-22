@@ -1,3 +1,3 @@
-from django.db import models
+from django.db import mode
 
 # Create your models here.
